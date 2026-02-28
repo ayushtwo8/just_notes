@@ -1,4 +1,4 @@
-# 🚀 Complete Backend Development Notes — Harkirat Cohort 2.0
+# 🚀 Complete Backend Development Notes
 ### From Basics to Advanced | Real-World Examples Included
 
 ---
@@ -3705,5 +3705,3 @@ MAJOR.MINOR.PATCH
 | 503 | Service Unavailable | Server temporarily down |
 
 ---
-
-*These notes cover the complete backend curriculum of Harkirat Singh's Cohort 2.0. Each topic is designed to take you from zero to production-ready code.*
